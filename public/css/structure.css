@@ -1,0 +1,201 @@
+/*------------------
+    Main Data
+---------------------*/
+
+#structure .background-image {
+    position: absolute;
+    left: 0;
+    right: 0;
+    display: block;
+    background-image:
+    url("https://en.idei.club/uploads/posts/2023-06/1687320082_en-idei-club-p-programming-background-dizain-pinterest-3.jpg");
+    background-size: cover;
+    filter:brightness(50%) ;
+    height: 52vw;
+    -webkit-filter:brightness(50%) ;
+}
+#container {
+    height: 50vw;
+    width: 50vw;
+}
+
+.slider ul li {
+    position: relative;
+    top: 45em;
+    width: 50em;
+}
+.slider ul li h2 {
+    padding: 5px;
+    font-size: 120%;
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+} 
+.slider ul li h2:hover {
+    color: rgb(255, 192, 3);
+}
+
+
+#container {
+    position: relative;
+    top:8vw;
+    height: 40em;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    color: white;  
+}  
+#container .title {
+    position: relative;
+    display: flex;
+    justify-content: center;        
+    align-items: center;
+    gap: 20px;
+    top: 34em;
+    font-size: 1vw;
+}
+#container #time, #container #date{
+    display: flex;
+    justify-content: center;
+    font-size: 1.7vw;
+    position: relative;
+    color: rgb(255, 192, 3);
+}
+#container .schedule .subject {
+    border-radius: 10px;
+    position: relative;
+    bottom: 45em;
+    width:60vw;
+    display: flex;
+    justify-content: left;
+    line-height: 3vw;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+#container .piket .subject {
+    border-radius: 10px;
+    position: relative;
+    bottom: 45em;
+    width:60vw;
+    display: flex;
+    justify-content: left;
+    line-height: 3vw;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+@media screen and (max-width:768px){
+    #container .piket .subject {
+        border-radius: 10px;
+        position: relative;
+        bottom: 45em;
+        width:60vw;
+        display: flex;
+        justify-content: left;
+        line-height: 1vw;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+    }
+}
+#container .schedule p,
+#container .piket p {
+    display: flex;
+    font-size: 1vw;
+    position: relative;
+}
+
+#container #Sunday p,
+#container #Sundays p,
+#container #Saturday p
+#container #Saturdays p
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 100px;
+    left: 0px;
+}
+#container a {
+    cursor: pointer;    
+    text-decoration: none;
+    color: whitesmoke;   
+}
+#container a:hover {
+    box-shadow: white 0px 8px 5px -5px;   
+}
+
+/*Js Function */
+#container .schedule{
+    display: none;
+    animation: 3s alternate in;
+    -webkit-animation: 3s alternate in;
+}
+
+#container .structure {
+    display: block;
+    animation: 3s alternate in;
+    -webkit-animation: 3s alternate in;
+}
+#container .piket {
+    display: none;
+    animation: 3s alternate in;
+    -webkit-animation: 3s alternate in;
+}
+
+@keyframes in {
+    from {
+    opacity: 0%;
+    }
+    to {
+    opacity: 100%;
+    }
+}
+
+#container #Tuesday,
+#container #Tuesdays,
+#container #Thursday, 
+#container #Thursdays, 
+#container #Friday, 
+#container #Fridays, 
+#container #Monday,
+#container #Mondays,
+#container #Wednesday,
+#container #Wednesdays,
+#container #Saturday,
+#container #Saturdays,
+#container #Sunday,
+#container #Sundays{
+    display: none;
+}
+/* Js Function End */
+/*------------------
+    Main Data End
+---------------------*/
+
+
+/*------------------
+Structure Tree
+---------------------*/
+
+.structureImage {
+    position: relative;
+    top: -46em;
+    left: -24%;
+    height: 1em;
+}
+.structureImage img {
+    width: 150%;
+}
+
+/*------------------
+Structure Tree End
+---------------------*/
+
+/*------------------
+Structure End
+---------------------*/
+
