@@ -1,0 +1,292 @@
+/*------------------
+  Main Data
+---------------------*/
+
+html,
+body {
+  scroll-behavior: smooth;
+  /* font-family: "Poppins", sans-serif; */
+  background-color: black;
+  font-family: "Lemon", serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+#home,
+#structure {
+  height: 54vw;
+}
+#home  {
+  padding-top: 1em;
+  background-color: gray;
+}
+
+@media screen and (max-width: 767px) {
+  #home  {
+    height: 78vw;
+    padding-top: 4em;
+    background-color: transparent ;
+
+  }
+  header {
+    margin-top: -35px;
+  }
+  #home .hero-text {
+    margin-top: 8em;
+  }
+}
+
+@media screen and (max-width: 868px) {
+  #structure {
+    height: 78vw;
+    padding-top: 5em;
+  }
+}
+@media screen and (max-width: 1024px) {
+  #structure {
+    height: 78vw;
+    padding-top: 5em;
+  }
+}
+
+#gallery {
+  height: 56vw;
+}
+#about {
+  height: 57em;
+}
+
+#home .background-image {
+  position: absolute;
+  left: 0;
+  right: 0;
+  filter: brightness(40%);
+  display: block;
+  z-index: 0;
+  /*background-image:;
+  url("https://en.idei.club/uploads/posts/2023-06/1687320082_en-idei-club-p-programming-background-dizain-pinterest-3.jpg");
+  */
+  background-image: url("https://i.ibb.co/QMJD6gw/geneitthpasban.png");
+  background-size: cover;
+  height: 54vw;
+  -webkit-filter: brightness(50%);
+}
+
+/*------------------
+  Time
+---------------------*/
+/* #home #clock {
+  position: relative;
+  text-align: center;
+  top: 550px;
+  color: rgba(255, 192, 3, 0.81);
+} */
+
+/*------------------
+  Buttons
+---------------------*/
+
+.site-btn {
+  position: relative;
+  cursor: pointer;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  letter-spacing: 1px;
+  border: none;
+  padding: 1vw 2vw;
+  color: rgb(255, 192, 3);
+  text-transform: uppercase;
+}
+.site-btn:hover {
+  color: whitesmoke;
+}
+.site-btn:before {
+  content: "";
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: -10px;
+  left: -10px;
+  border-top: 3px solid #fff;
+  border-left: 3px solid #fff;
+  transition: all 0.5s;
+}
+
+.site-btn:after {
+  content: "";
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  bottom: -10px;
+  right: -10px;
+  border-bottom: 3px solid rgb(255, 192, 3);
+  border-right: 3px solid rgb(255, 192, 3);
+  transition: all 0.5s;
+}
+
+.site-btn:hover:before {
+  border-top: 3px solid rgb(255, 192, 3);
+  border-left: 3px solid rgb(255, 192, 3);
+  height: 100%;
+  width: 100%;
+}
+.site-btn:hover:after {
+  height: 100%;
+  width: 100%;
+  border-bottom: 3px solid #fff;
+  border-right: 3px solid #fff;
+}
+
+/*------------------
+  Header section
+---------------------*/
+
+.header-section {
+  position: fixed;
+  z-index: 1;
+  height: 130px;
+  width: 100%;
+}
+.site-logo {
+  position: relative;
+  top: -4em;
+  width: 10em;
+  float: left;
+  left: 30px;
+  filter: contrast(3%);
+  -webkit-filter: contrast(3%);
+}
+
+.main-menu ul {
+  margin-top: 4em;
+  gap: 5px;
+}
+.main-menu ul li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 10em;
+  margin-bottom: 5vw;
+}
+.main-menu ul li a {
+  padding: 5px;
+  font-size: 120%;
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.main-menu ul li a:hover {
+  color: rgb(255, 192, 3);
+}
+.main-menu ul li .home:hover:before {
+  border-bottom: 3px solid wheat;
+  width: 43px;
+}
+.main-menu ul li .struktur:hover:before {
+  border-bottom: 3px solid wheat;
+  width: 73px;
+}
+.main-menu ul li .gallery:hover:before {
+  border-bottom: 3px solid wheat;
+  width: 50px;
+}
+.main-menu ul li .about:hover:before {
+  border-bottom: 3px solid wheat;
+  width: 67px;
+}
+.main-menu ul li a:before {
+  content: "";
+  position: absolute;
+  width: 10px;
+  border-bottom: 3px solid rgb(255, 192, 3);
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+}
+
+.header-btn {
+  float: right;
+  margin-right: 50px;
+  text-decoration: none;
+}
+
+/*------------------
+  Hero Section
+---------------------*/
+
+.hero-text {
+  position: absolute;
+  text-align: center;
+  top: 20vw;
+  cursor: default;
+  bottom: 105px;
+  height: 100px;
+  width: 87%;
+  left: 7vw;
+  color: rgba(255, 192, 3, 0.81);
+}
+.hero-text:hover {
+  color: rgb(255, 192, 3);
+}
+.hero-text:before {
+  content: "";
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: -10px;
+  left: 20vw;
+  border-top: 3px solid #fff;
+  border-left: 3px solid #fff;
+  transition: all 0.5s;
+}
+
+.hero-text:after {
+  content: "";
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 20px;
+  right: 20vw;
+  border-bottom: 3px solid #fff;
+  border-right: 3px solid #fff;
+  transition: all 0.5s;
+}
+
+.hero-text h2 {
+  font-size: 2vw;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+.hero-text:hover:before,
+.hero-text:hover:after {
+  height: 20%;
+  width: 50%;
+}
+.intro-newslatter .site-btn {
+  min-width: 214px;
+}
+
+@media screen and (max-width: 780px) {
+  header .site-logo {
+    display: none;
+  }
+  .main-menu ul li a {
+    font-size: 2.5vw;
+  }
+  .main-menu ul li {
+    width: 16vw;
+  }
+}
+@media screen and (max-width: 467px) {
+  header .site-btn {
+    display: none;
+  }
+  .main-menu ul li {
+    width: 20vw;
+  }
+  .main-menu ul li a {
+    font-size: 3.2vw;
+  }
+}
