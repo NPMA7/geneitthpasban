@@ -12,10 +12,6 @@ class Routes extends BaseController
     {
         return view('test');
     }
-    public function gallery(): string
-    {
-        return view('gallery');
-    }
     
     
 }

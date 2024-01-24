@@ -4,6 +4,7 @@ namespace App\Controllers;
 
 class Home extends BaseController
 {
+<<<<<<< HEAD
     public function index()
     {
         return view('welcome_message');
@@ -32,3 +33,11 @@ class Home extends BaseController
         phpinfo(77);
     }
 }
+=======
+    public function index(): string
+    {
+        return view('welcome_message');
+    }
+
+}
+>>>>>>> parent of 3f442aa (UIUX)
