@@ -11,15 +11,21 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-#home,
 #structure {
   height: 54vw;
 }
 #home  {
+  height: 56vw;
   padding-top: 1em;
   background-color: gray;
 }
 
+@media screen and (max-width: 425px) {
+  #home .hero-text {
+    position: absolute;
+    top: 50vw;
+  }
+}
 @media screen and (max-width: 767px) {
   #home  {
     height: 78vw;

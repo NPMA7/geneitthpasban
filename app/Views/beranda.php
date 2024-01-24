@@ -296,215 +296,209 @@
                     <div class="d-flex flex-row flex-wrap">
                         <div class="card card-body m-2">
                             <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/76301/02.png" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Syinsyin Solihah, S.Pd</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span>Syinsyin</a>
+                            <h6 style="height: 40px;">Syinsyin Solihah, S.Pd</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span>Syinsyin</a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/hff4Hhx/IMG-20230522-WA0028.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Aghi Pasha Ramadhan</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Aghi Pasha Ramadhan</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/LYZSpqr/IMG-20230523-WA0020.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Aip Fajri</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Aip Fajri</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/76301/02.png" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Akbar Faturohman</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Akbar Faturohman</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/j3XYHj9/IMG-20230810-WA0061.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Alfath Musyaffa</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Alfath Musyaffa</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/pj9VRMd/IMG-20230522-WA0092.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Andhika Kurniawan</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Andhika Kurniawan</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/76301/02.png" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Anisa Safitry Julianti</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Anisa Safitry Julianti</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/nb34BGt/IMG-20230522-WA0071.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Ardiansyah</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Ardiansyah</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/76301/02.png" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Arifin Nurdiansyah</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Arifin Nurdiansyah</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/Ycv0hsK/IMG-20230512-WA0004.jpg"  height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Ceptian Anugrah</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Ceptian Anugrah</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/GWD8NXr/IMG-20230509-WA0008.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Dede Ari Nugraha</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Dede Ari Nugraha</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/5sfGLng/IMG-20230906-WA0011.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Dedi Rialdi</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Dedi Rialdi</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/YQTh0LY/IMG-20230802-WA0004.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Erfian Muhammad Pasha</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Erfian Muhammad Pasha</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/76301/02.png" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Gilangga Yusuf Maulana</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Gilangga Yusuf Maulana</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/b3m0XWT/IMG-20230529-WA0011.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Ilham Abisalam</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Ilham Abisalam</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/76301/02.png" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Ilham Nur Hidayat </h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Ilham Nur Hidayat </h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/vZm6ZJt/IMG-20230522-WA0046.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Kelvin Ramadhan</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Kelvin Ramadhan</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/n64PCzc/IMG-20230516-WA0007.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Muhammad Lutfi Ardiansyah</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Muhammad Lutfi Ardiansyah</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/6mqrG4L/IMG-20230724-WA0024.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Muhammad Aril Nasruloh</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Muhammad Aril Nasruloh</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/G5tFmw9/IMG-20230905-WA0014.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Muhammad Irwan Nugraha</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Muhammad Irwan Nugraha</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/76301/02.png" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Muhammad Rakha Fauzan</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Muhammad Rakha Fauzan</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/Gx9Xdk8/IMG-20230823-WA0029.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Muhammad Alif Rifaldi</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Muhammad Alif Rifaldi</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/3Nvn5pM/IMG-20230815-WA0049.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Muhammad Ardhitya Zein Amanullah</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Muhammad Ardhitya Zein Amanullah</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/76301/02.png" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Nun Pasha Malik Alma</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Nun Pasha Malik Alma</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/YdWG92Q/IMG-20230815-WA0039.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Naufal Alfarisi Maulana </h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Naufal Alfarisi Maulana </h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/Fhb2qdD/IMG-20230815-WA0032.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Nirwana Alexa Sandria</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Nirwana Alexa Sandria</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/7QsSJJT/IMG-20230815-WA0046.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Noval Restu Radhityawan</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Noval Restu Radhityawan</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/76301/02.png" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Nurunnisa</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Nurunnisa</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/76301/02.png" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Puput Nur Handayani</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Puput Nur Handayani</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/76301/02.png" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Rahma Irawan</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Rahma Irawan</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/gvJ2N4C/IMG-20230724-WA0022.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Ridho Bacharudin Malik</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Ridho Bacharudin Malik</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/76301/02.png" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Risana Syabila</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Risana Syabila</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/76301/02.png" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Rizki Nur Rahman</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Rizki Nur Rahman</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/NKtCpVT/IMG-20230914-WA0055.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Septian Nur Fadilah</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Septian Nur Fadilah</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/76301/02.png" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Tendi Ikhsan</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Tendi Ikhsan</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         <div class="card card-body m-2">
                             <img src="https://i.ibb.co/x2qHNZ5/IMG-20230912-WA0011.jpg" height="150px"  class="card-img-top" alt="...">
-                            <h6 style="height: 30px;">Wildan Ahmad Fauzan</h6>
-                            <a href="" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
+                            <h6 style="height: 40px;">Wildan Ahmad Fauzan</h6>
+                            <a href="#" class="text-decoration-none d-flex align-items-center fs-6"><span class="fa fa-instagram me-2 fs-2"></span></a>
                         </div>
                         
                     </div>
                 </div>
-            </section>
+            </section>  
         </main>
 
 
     <!-- Footer -->
-    <footer class="footer">
+        <footer class="footer">
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-md-12 text-center">
 						<h5 class="footer-heading">
-                            <a href="#" class="logo">Geneitthpasban</a></h5>
-						<p class="menu">
-							<a href="#">Home</a>
-							<a href="#structure">Structure</a>
-							<a href="#gallery">Gallery</a>
-							<a href="#">About Us</a>
-						</p>
-                        
-						<ul class="ftco-footer-social p-0">
-              <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-              <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-              <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Instagram"><span class="fa fa-instagram"></span></a></li>
-            </ul>
-            <div class="environment">
-                <p>Page rendered {elapsed_time} seconds</p>
-                <p>Status: <?= ENVIRONMENT ?></p>
-            </div>
-					</div>
+                            <a href="/" class="logo">Geneitthpasban</a>
+                        </h5>
+                        <ul class="ftco-footer-social p-0">
+                            <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
+                            <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
+                            <li class="ftco-animate"><a href="https://www.instagram.com/geneitthpasban" data-toggle="tooltip" data-placement="top" title="Instagram"><span class="fa fa-instagram"></span></a></li>
+                        </ul>
+                        <div class="environment">
+                            <p>Page rendered {elapsed_time} seconds</p>
+                            <p>Status: <?= ENVIRONMENT ?></p>
+                        </div>
+                    </div>
 				</div>
 				<div class="row">
 					<div class="col-md-12 text-center">

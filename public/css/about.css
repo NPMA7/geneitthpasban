@@ -20,7 +20,7 @@
 }
 #about .card a {
   overflow: hidden;
-  width: 20px;
+  width: 25px;
 }
 #about .card a:hover {
   width: 100%;

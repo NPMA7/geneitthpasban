@@ -50,8 +50,18 @@
     justify-content: center;        
     align-items: center;
     gap: 20px;
-    top: 34em;
-    font-size: 1vw;
+    top: 22em;
+    font-size: 1.5vw;
+}
+@media screen and (max-width:768px) {
+    #container .title {
+        font-size: 1.5vw;
+    }
+}
+@media screen and (max-width:425px) {
+    #container .title {
+        font-size: 1.5vw;
+    }
 }
 #container #time, #container #date{
     display: flex;
